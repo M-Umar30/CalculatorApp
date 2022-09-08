@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Muhammad Umar/Desktop/FAST/Semester 5/SMD/Calculator/CalculatorApp/app/src/main/res/drawable/button_style.xml" value="0.185" />
         <entry key="..\:/Users/Muhammad Umar/Desktop/FAST/Semester 5/SMD/Calculator/CalculatorApp/app/src/main/res/drawable/gradient.xml" value="0.226" />
+        <entry key="..\:/Users/Muhammad Umar/Desktop/FAST/Semester 5/SMD/Calculator/CalculatorApp/app/src/main/res/drawable/num_button.xml" value="0.185" />
+        <entry key="..\:/Users/Muhammad Umar/Desktop/FAST/Semester 5/SMD/Calculator/CalculatorApp/app/src/main/res/drawable/numbutton.xml" value="0.185" />
+        <entry key="..\:/Users/Muhammad Umar/Desktop/FAST/Semester 5/SMD/Calculator/CalculatorApp/app/src/main/res/drawable/purplepine_gradient.xml" value="0.185" />
+        <entry key="..\:/Users/Muhammad Umar/Desktop/FAST/Semester 5/SMD/Calculator/CalculatorApp/app/src/main/res/drawable/sign_button_style.xml" value="0.185" />
+        <entry key="..\:/Users/Muhammad Umar/Desktop/FAST/Semester 5/SMD/Calculator/CalculatorApp/app/src/main/res/drawable/text_style.xml" value="0.185" />
         <entry key="..\:/Users/Muhammad Umar/Desktop/FAST/Semester 5/SMD/Calculator/CalculatorApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>

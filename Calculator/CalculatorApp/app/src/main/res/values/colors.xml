@@ -9,4 +9,14 @@
     <color name="white">#FFFFFFFF</color>
     <color name="CelestialStart">#C33764</color>
     <color name="CelestialEnd">#1D2671</color>
+    <color name="purplepine_start">#20002c</color>
+    <color name="purplepine_end">#cbb4d4</color>
+    <color name="venice_start">#6190E8</color>
+    <color name="venice_end">#A7BFE8</color>
+    <color name="amin_start">#8E2DE2</color>
+    <color name="amin_end">#4A00E0</color>
+    <color name="azur_lane_start">#3A7BD5</color>
+    <color name="azur_lane_end">#3A6073</color>
+    <color name="slight_ocean_start">#a8c0ff</color>
+    <color name="slight_ocean_end">#3f2b96</color>
 </resources>
