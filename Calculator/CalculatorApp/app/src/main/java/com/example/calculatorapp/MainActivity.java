@@ -3,6 +3,7 @@ package com.example.calculatorapp;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
@@ -13,6 +14,7 @@ import org.mozilla.javascript.Scriptable;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     TextView expression, result;
+    Toast toast;
     Button button_0, button_1, button_2, button_3, button_4, button_5, button_6, button_7, button_8, button_9, button_Add, button_Sub, button_Mul, button_Div, button_Equal, button_Clear, button_Dot, button_ac;
 
     @Override
@@ -67,6 +69,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         String button_text = btn.getText().toString();
         String currentExpression = expression.getText().toString();
         String newExpression = "";
+        toast = Toast.makeText(this, button_text, Toast.LENGTH_SHORT);
+        toast.setGravity(Gravity.TOP, 0, 0);
+        toast.show();
         if(button_text.equals("AC")){
             newExpression = "";
         }
